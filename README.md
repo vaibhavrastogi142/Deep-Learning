@@ -1,3 +1,3 @@
 # Deep-Learning
 Deep learning projects
-![](deeplearningcertificate)
+![](deeplearningcertificate.jpg)
